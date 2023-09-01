@@ -20,6 +20,8 @@ Languages</br>
 
  IDE</br>
  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipseide&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white"/>
+ <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 
  Framework</br>
   <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
