@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Languages</br>
+<!-- Languages</br>
  <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/>
 
  IDE</br>
@@ -32,7 +32,7 @@ Languages</br>
  <img src="https://img.shields.io/badge/SQLite-4479A1?style=flat&logo=sqlite&logoColor=white"/>
  <img src="https://img.shields.io/badge/MySQL-003B57?style=flat&logo=mysql&logoColor=white"/>
  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/>
-
+-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wookhyunKim&anuraghazra&theme=dracula&icons=true)&nbsp;　
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wookhyunKim&layout=compact&theme=dracula)
